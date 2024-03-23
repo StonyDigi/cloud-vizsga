@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url('./img/cloudmonitor-azure-pricing-featured-image-2-1024x682.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 124px;
+    color: #000;
+  }
+
+  .card-header {
+    font-size: 50px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .card-footer {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000;
+  }
